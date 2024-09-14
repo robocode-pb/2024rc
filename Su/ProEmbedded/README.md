@@ -1,1 +1,0 @@
-Каталог курсу Robo Pro Embedded  (неділя)
