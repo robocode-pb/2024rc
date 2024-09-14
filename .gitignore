@@ -80,3 +80,6 @@ __pycache__/
 # Custom ##########
 gh.py
 cloneGH.bat
+Fr/.gitignore
+Sa/.gitignore
+Su/.gitignore
