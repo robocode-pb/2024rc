@@ -41,7 +41,7 @@
 
 5. Відкриваємо `Edit` -> `Preferences` -> `External Tools` та обираємо `External Script Editor` -> `Visual Stusio Code` і жмакаємо кнопку `Regenerate Project files`
 
-![image](https://github.com/user-attachments/assets/fae50ced-b696-4799-a848-3a2a715ec7dd
+![image](https://github.com/user-attachments/assets/fae50ced-b696-4799-a848-3a2a715ec7dd)
 
 6. Одного разу встановлюємо розширення в VS Code `Unity from Microsoft`
 
