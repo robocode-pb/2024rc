@@ -1,9 +1,13 @@
 
+![python_pCnSCvWFHR](https://github.com/user-attachments/assets/b21f62c9-b73d-442f-bdea-60a3993c6341)
+
+
 ![python_cYc9fJGeTX](https://github.com/user-attachments/assets/444da2d4-205e-4cd6-8445-1f243d9b057b)
 
 ![python_9fGkXUmJGV](https://github.com/user-attachments/assets/5cc0fa14-1266-4508-98a8-5b7c2b208814)
 
 ![python_A2LWZWUSgv](https://github.com/user-attachments/assets/a1c6783e-9afd-4a70-8a6b-2c962804a360)
+
 
 ``` bash
 pip install pillow opencv-python mediapipe
@@ -180,8 +184,8 @@ def get_frame() -> np.ndarray:
 ################################################################################
 
 
-load_source()
-# load_source('http://192.168.31.113:8080/video')
+load_source('https://assets.mixkit.co/videos/4938/4938-720.mp4')
+# load_source()
 # load_source('hand.gif', gif=True)
 # load_source('2hand.gif', gif=True)
 
