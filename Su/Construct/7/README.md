@@ -1,0 +1,1 @@
+[Construct project 7](https://robocode-pb.github.io/2024rc/Su/Construct/7)
