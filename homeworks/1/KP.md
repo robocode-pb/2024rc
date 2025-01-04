@@ -12,6 +12,9 @@
 
 ![image](https://github.com/user-attachments/assets/a9e764ee-1f30-43c4-9c9b-e9273ce68352)
 
+
+[Приклад конвертації dollarToBrawlPassPlus](https://wokwi.com/projects/419147720909612033)
+
 ## Завдання:
 Wokwi створити функції для калькулятора
 - виконуючу з назвою калькулятора
