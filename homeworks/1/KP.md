@@ -16,6 +16,22 @@
 [Приклад конвертації dollarToBrawlPassPlus](https://wokwi.com/projects/419147720909612033)
 
 ## Завдання:
-Wokwi створити функції для калькулятора
+[Wokwi створити функції для калькулятора](https://wokwi.com/projects/419258324714979329)
 - виконуючу з назвою калькулятора
 - з параметром та поверненням для операцій + - / *
+
+``` cpp
+void setup() {
+  Serial.begin(9600);
+  Serial.print("1+1=");
+  // Serial.println(add(1,1));
+  Serial.print("1-1=");
+  // Serial.println(sub(1,1));
+  Serial.print("5*2=");
+  // Serial.println(mul(5,2));
+  Serial.print("10/2=");
+  // Serial.println(div(10,2));
+}
+
+void loop() {}
+```
