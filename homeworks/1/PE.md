@@ -1,9 +1,10 @@
-1. Що означають чеввоні, жовті, зелені кружечки пінів? Що за хвильни та `touch`?
+1. Що означають чеввоні, жовті, зелені кружечки пінів? Що за хвильки та `touch`?
 
 ![Без імені – копія](https://github.com/user-attachments/assets/83bf3c3f-a524-46f0-81f5-245caaf78815)
 
 
 2. Що це за функція?
+
 ``` cpp
 attachInterrupt(pin, ISR, mode);
 /*    pin: the pin number
